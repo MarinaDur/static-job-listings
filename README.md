@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [static-job-listings-main-react.netlify.app](static-job-listings-main-react.netlify.app)
 
 ## My process
 
